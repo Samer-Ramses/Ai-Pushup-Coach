@@ -8,7 +8,7 @@ you can see the full demo in demo.mp4 file
 
 Watch the demo below:
 
-[![Demo](demo.gif)]("Demo")
+[![Demo](demo.gif)]
 
 ## Table of Contents
 
